@@ -1,8 +1,5 @@
-# React + Vite
+# Calculadora de IMC em React
+[![My Skills](https://skillicons.dev/icons?i=react,vite,css)](https://skillicons.dev)
+![calculadora IMC](https://github.com/user-attachments/assets/f7a120c6-5a50-42a4-ac51-511699449bcf)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
